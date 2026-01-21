@@ -98,3 +98,10 @@ Built on standard **W3C Verifiable Credentials (VCs)** for interoperability, wit
   "issuer": "did:example:user-xyz456",
   "proof": { /* JWT or Data Integrity proof */ }
 }
+```
+
+## Intent Verification Extension (Optional)
+
+This optional extension adds a multi-agent oversight mechanism to validate the requesting agent’s intent before execution. (Work in progress)
+
+
