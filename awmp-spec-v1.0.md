@@ -39,9 +39,6 @@ Built on standard **W3C Verifiable Credentials (VCs)** for interoperability, wit
   - Target resource (DB table, API endpoint)
   - Parameter restrictions (fields, values, row limits)
   - Temporal validity
-  - Usage quotas
-  - Delegation rules
-  - Revocation pointer
 
 - **Verifier**: Gateway/service that validates the mandate chain before allowing the write.
 
