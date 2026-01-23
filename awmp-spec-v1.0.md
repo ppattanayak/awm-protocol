@@ -37,7 +37,6 @@ Built on standard **W3C Verifiable Credentials (VCs)** for interoperability, wit
 - **Scope Constraints** (in VC claims):
   - Action type (`CREATE`, `UPDATE`, `DELETE`)
   - Target resource (DB table, API endpoint)
-  - Parameter restrictions (fields, values, row limits)
   - Temporal validity
 
 - **Verifier**: Gateway/service that validates the mandate chain before allowing the write.
